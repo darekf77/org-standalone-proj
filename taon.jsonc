@@ -29,7 +29,7 @@
   "packageJsonOverride": {
     "author": "Darek",
     "description": "Description for org-standalone-proj. Hello world!",
-    "private": true,
+    "private": false,
     "scripts": {}
   }
 }
