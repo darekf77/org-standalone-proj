@@ -3,8 +3,6 @@
   "version": "v21",
   "appId": "com.domain.example.org-standalone-proj",
 
-  "overrideNpmName": "@taon-example-org/standalone",
-
   "autoReleaseConfigAllowedItems": [{
     "artifactName": "npm-lib-and-cli-tool",
     "releaseType": "manual",
@@ -24,11 +22,14 @@
     "taskName": "localhost"
   }],
 
+  "overrideNpmName": "@taon-example-org/standalone",
+
   "shouldGenerateAutogenIndexFile": true,
 
   "packageJsonOverride": {
     "author": "Darek",
     "description": "Description for org-standalone-proj. Hello world!",
-    "private": true
+    "private": true,
+    "scripts": {}
   }
 }
