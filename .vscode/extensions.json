@@ -35,6 +35,7 @@
     "Tyriar.sort-lines",
     "DavidAnson.vscode-markdownlint",
     "wmaurer.change-case",
-    "earshinov.permute-lines"
+    "earshinov.permute-lines",
+    "xabikos.javascriptsnippets"
   ]
 }
