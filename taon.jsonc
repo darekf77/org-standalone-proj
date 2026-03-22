@@ -3,6 +3,8 @@
   "version": "v21",
   "appId": "com.domain.example.org-standalone-proj",
 
+  "overrideNpmName": "@taon-example-org/standalone",
+
   "autoReleaseConfigAllowedItems": [{
     "artifactName": "npm-lib-and-cli-tool",
     "releaseType": "manual",
