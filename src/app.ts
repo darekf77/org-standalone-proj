@@ -60,7 +60,7 @@ import {
   TaonMigration,
   TaonBaseMigration,
   TaonContext,
-  } from 'taon/src';
+} from 'taon/src';
 import { TaonAdminService, TaonAdmin } from 'taon/src'; // @browser
 import { TaonStor } from 'taon-storage/src';
 import {

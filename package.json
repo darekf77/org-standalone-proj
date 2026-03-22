@@ -1,6 +1,6 @@
 {
   "name": "@taon-example-org/standalone",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "taon init": "taon init",
     "taon start": "taon start",
